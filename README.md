@@ -15,10 +15,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalSingh04&layout=compact&theme=tokyonight" />
 </p>
 
-## 🐉 Contribution Dragon
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/NihalSingh04/NihalSingh04/blob/output/github-contribution-grid-dragon.svg">
+<img src="https://raw.githubusercontent.com/NihalSingh04/NihalSingh04/output/github-contribution-grid-snake.svg">
 </p>
 
 ## 🚀 Tech Stack
