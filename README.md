@@ -15,6 +15,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NihalSingh04&layout=compact&theme=tokyonight" />
 </p>
 
+## 🐉 Contribution Dragon
+
+<p align="center">
+<img src="https://github.com/NihalSingh04/NihalSingh04/blob/output/github-contribution-grid-dragon.svg">
+</p>
+
 ## 🚀 Tech Stack
 
 💻 Languages
