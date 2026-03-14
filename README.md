@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Nihal Singh</h1>
+<h3 align="center">AI Engineer | Machine Learning | Generative AI</h3>
 <!--
 **NihalSingh04/NihalSingh04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
