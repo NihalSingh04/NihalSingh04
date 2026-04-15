@@ -33,6 +33,7 @@
 - TensorFlow
 - HuggingFace
 - LangChain
+- LangGraph
 - Vector Databases
 
 🌐 Web Development
